@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm Feerose  
 
-🔥 A Passionate Developer | 📝 Tech Enthusiast | 🌟 Lifelong Learner
+🔥 A Passionate Developer | 📝 AI Enthusiast | 🌟 Lifelong Learner
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on A **local handicraft e-commerce platform** 🛒<br>  
+🔭 I’m currently working as **AI-Intern** at **eSewa Ltd.** <br>  
 👯 I’m looking to collaborate on AI projects, **computer vision**, and **LLM-based applications** 🤖<br>
 🤝 I’m looking for help with Improving my **AI engineering skills**<br>
 🌱 I’m currently learning **Advanced AI techniques**,**LangChain**,**Generative AI**<br>
