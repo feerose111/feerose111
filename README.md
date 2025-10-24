@@ -4,7 +4,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working as **AI-Intern** at **eSewa Ltd.** <br>  
+🔭 I’m currently open for work <br>  
 👯 I’m looking to collaborate on AI projects, **computer vision**, and **LLM-based applications** 🤖<br>
 🤝 I’m looking for help with Improving my **AI engineering skills**<br>
 🌱 I’m currently learning **Advanced AI techniques**,**LangChain**,**Generative AI**<br>
